@@ -15,33 +15,25 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: Study Artificial Intelligence @ WrUST
+      content: There's no AI without an I, apply now!
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
         media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+      link:
+        icon: graduation-cap
+        icon_pack: fas
+        text: Show more
+        url: https://studiuj.ai
+    - title: Interested work with us?
+      content: 'If you’re interested in joining our group, send an email with your interests and CV to kio@pwr.edu.pl'
       align: right
       background:
         position: center
         color: '#333'
         brightness: 0.5
         media: welcome.jpg
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
 ---
