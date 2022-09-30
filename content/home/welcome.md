@@ -1,23 +1,31 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+widget: blank
 
-# (widget: hero # See https://wowchemy.com/docs/page-builder/)
-widget: hero
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 10
+
 title: Welcome!
-hero_media: welcome.jpg
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
----
 
-<br>
+design:
+  columns: 2
+  background:
+    image: headers/background_4_1920.jpg
+    image_darken: 0.6
+    image_parallax: true
+    image_position: center
+    image_size: cover
+    text_color_light: true
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
+
+
+---
 
 We are the Department of Artificial Intelligence at Wroclaw University of Science and Technology, founded in 2014 (formerly a Department of Computational Intelligence).
 Our team researches important data science, machine learning and general artificial intelligence problems involving unstructured data: in other words, images, texts, sounds, networks or signals.
