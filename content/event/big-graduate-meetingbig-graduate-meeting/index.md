@@ -10,6 +10,8 @@ event_url: https://changedetction.theliver.pl
 publishDate: 2022-09-30T06:00:35.839Z
 draft: false
 featured: false
+authors:
+  - wątroba
 image:
   filename: featured
   focal_point: Smart
