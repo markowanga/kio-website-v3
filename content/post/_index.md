@@ -1,11 +1,10 @@
 ---
 title: Latest News
-
-# Listing view
 view: compact
-
-# Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: ''
-  image: ''
+  caption: ""
+  image: ""
+date: 2022-10-11T11:41:40.674Z
+summary: a﻿aa
 ---
+a﻿aa
