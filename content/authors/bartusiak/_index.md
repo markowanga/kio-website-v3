@@ -60,7 +60,6 @@ email: "riomus@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
 - Project's staff
 ---
 Roman Bartusiak started his adventure with computers at the age of 2. His scientific expertise is broad and covers multiple machine learning topics like natural language processing, computer vision. Besides working for numerous startups as a full-stack developer, he was also a software architect at Nokia. He is a passionate about software craftsmanship and modern approaches for software development. In free time, beside learning esoteric programming languages, He study state of the art machine learning methods and practice software development.
