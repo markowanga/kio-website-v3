@@ -20,6 +20,16 @@ interests:
   - biometrics
   - image processing
 social:
+  - display:
+      header: false
+    link: syga.ai.pwr.edu.pl
+    icon_pack: fas
+    icon: home
+  - display:
+      header: false
+    link: mailto:piotr.syga@pwr.edu.pl
+    icon_pack: fas
+    icon: envelope
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.pl/citations?user=lBNIbIMAAAAJ
