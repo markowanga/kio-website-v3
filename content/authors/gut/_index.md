@@ -34,7 +34,13 @@ social:
     icon_pack: fas
     icon: linkedin
 education:
-  courses: []
+  courses:
+    - course: BEng in Electronics
+      institution: Wroclaw University of Science and Technology
+      year: 2018
+    - course: MSc in Audio and Music Technology
+      institution: The University of York
+      year: 2020
 user_groups:
   - PhD Students
 highlight_name: false
