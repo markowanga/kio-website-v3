@@ -23,15 +23,41 @@ interests:
   - Social Media Analytics
   - Social Networks
 social:
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.pl/citations?user=cxLgNccAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/kazienko
   - icon: external-link-alt
     icon_pack: fas
     link: https://kazienko.eu
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.pl/citations?user=cxLgNccAAAAJ
+  - display:
+      header: false
+    link: https://www.webofscience.com/wos/author/record/541317
+    icon_pack: ai
+    label: WoS
+    icon: Web of Science
+  - display:
+      header: false
+    link: https://www.scopus.com/authid/detail.uri?authorId=35615668400
+    icon_pack: ai
+    icon: Scoups
+  - display:
+      header: false
+    link: https://orcid.org/0000-0001-5868-356X
+    icon: ORCID
+    icon_pack: ai
+  - display:
+      header: false
+    link: https://dblp.uni-trier.de/pid/k/PrzemyslawKazienko.html
+    icon_pack: ai
+    icon: DBLP
+  - display:
+      header: false
+    link: https://dl.acm.org/profile/81326490325
+    icon: https://dl.acm.org/profile/specs/products/acm/releasedAssets/images/acm-logo-1.png
+    icon_pack: ai
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/kazienko
 education:
   courses:
     - course: MSc in Computer Science
