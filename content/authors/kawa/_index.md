@@ -6,10 +6,14 @@ organizations:
 superuser: false
 authors:
   - kawa
+title: Piotr Kawa
 role: PhD Student
 bio: null
 interests:
-  - ComputerVision
+  - Computer Vision
+  - Speech Processing
+  - DeepFake Detection
+  - Text To Speech
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,15 +29,14 @@ social:
     link: https://github.com/piotrkawa/
 education:
   courses:
-    - course: Title course 1
-      institution: Name of Institution
-      year: 2012
-    - course: Title course 1
-      institution: Name of Institution
-      year: 2012
+    - course: MSc in Computer Science (Computer Security)
+      institution: Wroclaw University of Science and Technology
+      year: 2020
+    - course: BSc in Computer Science
+      institution: Wroclaw University of Science and Technology
+      year: 2019
 user_groups:
   - PhD Students
 highlight_name: false
-title: Piotr Kawa
 email: ""
 ---
