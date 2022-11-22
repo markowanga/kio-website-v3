@@ -87,4 +87,6 @@ He also intialized and led over 50 projects, including large European ones, chie
 
 He gave 20 keynote/invited speeches for international audience and served as a co-chair of over 20 and a member of over 60 programme committees of international scientific conferences and workshops as well as a guest editor of eight special issues in prestige journals. 
 
+He was a visiting professor at Univeristy of Notre Dame (USA), University of California, Davis (USA), Rensselaer Polytechnic Institute (USA), University of Technology Sydney (Australia).
+
 He is an IEEE Senior Member, a member of the Editorial Board of Social Network Analysis and Mining, Social Informatics, International Journal of Knowledge Society Research, International Journal of Human Capital. He is also on the board of Network Science Society, in The Scientific Committee of Polish Artificial Intelligence Society, on the board of KRAB - National Council of EU Projects Coordinators.
