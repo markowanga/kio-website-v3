@@ -8,7 +8,10 @@ authors:
   - kazienko
 title: Przemysław Kazienko
 role: Full Professor
-bio: My research interests include Social Network Anaysis and .
+bio: My recent research interests include deep machine learning, affective
+  computing and emotion recognition from physiological signals, wearable-based
+  solutions, human-centred NLP, social network and social media analysis,
+  sentiment analysis.
 interests:
   - Machine Learning
   - Affective Computing
