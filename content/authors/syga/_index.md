@@ -7,7 +7,13 @@ superuser: false
 authors:
   - syga
 role: assistant professor
-bio: null
+bio: Piotr Syga is currently an assistant professor at the Department of
+  Artificial Intelligence, Wroclaw University of Science and Technology. His
+  research and professional interests include image processing and various
+  aspects of privacy, including preserving privacy and information security in
+  networks of severely constrained devices. In addition to his involvement in
+  academia, he has worked with the banking sector in identity management and
+  with industry in optimization and image processing.
 interests:
   - privacy
   - ad hoc networks
