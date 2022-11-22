@@ -81,7 +81,7 @@ email: ""
 ---
 Przemysław Kazienko, Ph.D. is a full professor and leader of ENGINE - the European Centre for Data Science at Wroclaw University of Science and Technology, Poland and two research groups: EMOGNITION (affective computing) and HumaNLP (human-centred NLP). 
 
-He authored over 300 research papers, including 45 in journals with impact factor related to affective computing, emotion recognition from physiological signals, wearable solutions, human-centred NLP, social network analysis, complex networks, spread of influence, collective classification, machine learning, sentiment analysis, DSS in medicine, finances and telecommunication, knowledge management, collaborative systems, data mining, recommender systems, information retrieval, and data security. 
+He authored over 300 research papers, including 50 in journals with impact factor related to affective computing, emotion recognition from physiological signals, wearable-based solutions, human-centred NLP, social network analysis, complex networks, spread of influence, collective classification, machine learning, sentiment analysis, DSS in medicine, finances and telecommunication, knowledge management, collaborative systems, data mining, recommender systems, information retrieval, and data security. 
 
 He also intialized and led over 50 projects, including large European ones, chiefly in cooperation with companies with total local budget over €10M. 
 
