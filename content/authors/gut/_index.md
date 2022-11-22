@@ -1,70 +1,49 @@
 ---
-# Display name
-title: "Maksymilian Gut"
-
-# Username (this should match the folder name and the name on publications)
-authors:
-- "gut"
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position (e.g., Professor of Artificial Intelligence)
-role:
-
-# Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: 
-
-# List each interest with a dash
+  - name: Wroclaw University of Science and Technology
+superuser: false
+authors:
+  - gut
+title: Maksymilian Gut
+role: PhD Student
+bio: Graduate of the Wroclaw University of Science and Technology with a major
+  in electronics at the Faculty of Electronics. Master of Science degree
+  obtained at the University of York, UK in 2018-2020 at the Department of
+  Electronics with a specialization in audio technology. Since 2020, employed as
+  a project engineer at Silencions LLC, in a project related to an active noise
+  reduction system utilizing machine learning techniques, responsible for
+  coordinating hardware and software development. Currently, also an
+  implementation PhD student at the Wroclaw University of Science and Technology
+  conducting research on machine learning algorithms for stationary time series
+  prediction.
 interests:
-- Interest 1
-- Interest 2
-
-education:
-  courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - DeepLearning
+  - Electronics
+  - Cybersecurity
+  - OperatingSystems
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+  - icon: envelope
+    icon_pack: fas
+    link: maksymilian.gut@pwr.edu.pl
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gutmmm
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/maksymilian-gut/
+    icon_pack: fas
+    icon: linkedin
+education:
+  courses: []
 user_groups:
-- PhD Students
+  - PhD Students
+highlight_name: false
+email: ""
 ---
+Graduate of the Wroclaw University of Science and Technology with a major in electronics at the Faculty of Electronics. First experience gained in designing and constructing electronic circuits through own projects, as well as active participation in the Audio Engineering Society. In addition, during undergraduate studies, developed programming skills for microcomputer platforms, which eventually resulted into own MIDI controller projects.
+
+Master of Science degree obtained at the University of York, UK in 2018-2020 at the Department of Electronics with a specialization in audio technology. The postgraduate studies brought a broader view into the world of signal processing, programming mobile platforms (iOS) and the latest approaches in the implementation of surround sound technology.
+
+Since 2020, employed as a project engineer at Silencions LLC, in a project related to an active noise reduction system utilizing machine learning techniques, responsible for coordinating hardware and software development. Engaged in the Silencions Internet-of-Things - a state-of-the-art project of sonometric sensors for creating acoustic maps of industrial and public spaces. Responsible for the development of the architecture of wireless measurement sensors, the development of the communication protocol with the IoT network broker and the integration with the web service. Currently, also an implementation PhD student at the Wroclaw University of Science and Technology conducting research on machine learning algorithms for stationary time series prediction.
+
+Main interests revolve around the fields of electronic prototyping, deep learning algorithms, operating systems, wireless communications and cybersecurity. Outside the technical field, passionate about music and playing instruments, an active player in a football team, and Spanish language enthusiast.
