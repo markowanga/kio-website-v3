@@ -7,7 +7,7 @@ superuser: false
 authors:
   - wozniak
 role: PhD Student
-bio: null
+bio: Machine Learning Researcher Engineer
 interests:
   - Natural Language Processing
   - Machine Learning
