@@ -1,6 +1,7 @@
 ---
 organizations:
-  - name: Wroclaw University of Science and Technology
+  - name: Department of Computational Intelligence, Wroclaw University of Science
+      and Technology
     url: ""
 superuser: false
 authors:
@@ -23,16 +24,16 @@ social:
     link: https://github.com/binkjakub
 education:
   courses:
-    - course: Title course 1
-      institution: Name of Institution
-      year: 2012
-    - course: Title course 1
-      institution: Name of Institution
-      year: 2012
+    - course: MsC in Computer Science
+      institution: Wroclaw University of Science and Technology
+      year: 2021
+    - course: BSc in Computer Science
+      institution: Wroclaw University of Science and Technology
+      year: 1991
 user_groups:
   - PhD Students
 highlight_name: false
 title: Jakub Binkowski
 email: ""
 ---
-Jakub holds BSc and MSc in Computer Science and graduated from Wroclaw University of Science and Technology. His interest in machine learning and artificial intelligence starts in the early year of his studies. During his career, he developed and deployed solutions in several ML fields, including natural language processing (automated anonymization, fake news classification) and signal processing (acoustic scene classification). His current research concerns learning representation on graphs and its applications to problems, like embedding neural network learning processes.
+Jakub holds BSc and MSc in Computer Science and graduated from Wroclaw University of Science and Technology. His interest in machine learning and artificial intelligence starts in the early year of his studies. He has experience in scientific and commercial projects. During his career, he developed and deployed solutions in several ML fields, including natural language processing (automated anonymization, fake news classification) and signal processing (acoustic scene classification). His current research concerns learning representation on graphs and its applications to problems, like embedding neural network learning processes.
