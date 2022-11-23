@@ -1,70 +1,42 @@
 ---
-# Display name
-title: "Michał Czuba"
-
-# Username (this should match the folder name and the name on publications)
-authors:
-- "czuba"
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position (e.g., Professor of Artificial Intelligence)
-role:
-
-# Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: 
-
-# List each interest with a dash
+  - name: Department of Artificial Intelligence, WUST
+    url: https://ai.pwr.edu.pl/
+superuser: false
+authors:
+  - czuba
+role: PhD Student
+bio: Data Scientist, Machine Learning Engineer
 interests:
-- Interest 1
-- Interest 2
-
+  - network-science
+  - complex-networks
+  - phenomena-spreading
+  - information-diffusion
+  - machie-learning
+social:
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/michalczuba/
+    icon_pack: fab
+    icon: linkedin
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: Doctor of Philosophy (Computer Science)
+      institution: WUST, Faculty of Information and Communication Technology
+      year: ""
+    - course: Master of Science (Individual course of study)
+      institution: WUST, Faculty of Mechanical Engineering
+      year: 2019
+    - course: Bechelor of Science (Artificial Intelligence)
+      institution: WUST, Faculty of Information and Communication Technology
+      year: 2020
+    - course: Bechelor of Science (Control Engineering and Robotics)
+      institution: WUST, Faculty of Mechanical Engineering
+      year: 2018
 user_groups:
-- PhD Students
+  - PhD Students
+highlight_name: false
+title: Michał Czuba
+email: michal.czuba@pwr.edu.pl
 ---
+I am an early stage researcher focused on the issue of information diffusion in complex networks. My experience in AI projects touches also machine vision, cyber-security and facilitation of industrial processes by ML. Apart from scientific aspects, I am concerned in problems like deployment, scaling and monitoring of AI algorithms in business products. My interests evolved from software-related issues of robotics (during studies at Faculty of Mechanical Engineering) into pure aspects of artificial intelligence scoped in network-science.
