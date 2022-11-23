@@ -7,11 +7,12 @@ superuser: false
 authors:
   - kocon
 title: Jan Kocoń
-role: Assistant professor
+role: Assistant Professor
 bio: My research interests include natural language processing, machine learning
   and deep language models.
 interests:
   - natural language processing
+  - personalization
   - deep language models
   - machine learning
   - artificial intelligence
