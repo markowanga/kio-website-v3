@@ -40,11 +40,11 @@ social:
     icon: dblp
 education:
   courses:
+    - course: PhD in Computer Science
+      institution: Institute of Computer Science, Polish Academy of Sciences
     - course: MSc in Computer Science
       institution: Faculty of Fundamental Problems of Technology, Wrocław University
         of Science and Technology
-    - course: PhD in Computer Science
-      institution: Institute of Computer Science, Polish Academy of Sciences
 user_groups:
   - Faculty
 highlight_name: false
