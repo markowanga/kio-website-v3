@@ -7,7 +7,7 @@ superuser: false
 authors:
   - binkowski
 role: PhD Student
-bio: Representation Learning on graphs
+bio: Representation learning methods for structure and dynamics of networks
 interests:
   - Graph Represetantion Learninig
   - Geometric Deep Learning
