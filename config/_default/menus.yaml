@@ -7,15 +7,15 @@ main:
   - name: Main
     url: main
     weight: 10
-  - name: News
-    url: post
-    weight: 20
+#  - name: News
+#    url: post
+#    weight: 20
   - name: People
     url: people
     weight: 30
-  - name: Events
-    url: event
-    weight: 40
+#  - name: Events
+#    url: event
+#    weight: 40
   - name: Publications
     url: publication
     weight: 50

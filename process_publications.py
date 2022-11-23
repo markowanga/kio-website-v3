@@ -43,5 +43,10 @@ def main():
         process_publication(pub, user_mapping)
 
 
+def print_all_emails() -> None:
+    for it in get_all_user_dirs():
+        print(it.joinpath('_index.md'))
+
+
 if __name__ == '__main__':
-    main()
+    print_all_emails()
