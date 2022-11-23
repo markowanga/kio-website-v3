@@ -1,10 +1,4 @@
 ---
-organizations:
-  - name: Wrocław University of Science and Technology
-    url: ""
-superuser: false
-authors:
-  - baran
 title: Joanna Baran
 role: PhD Student
 bio: " NLP Researcher"
@@ -20,12 +14,18 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Joanna065
+organizations:
+  - name: Wrocław University of Science and Technology
+    url: ""
 education:
   courses:
     - course: PhD in Computer Science
       institution: Wroclaw University of Science and Technology, Department of
         Artificial Intelligence
-      year: ""
+      year: 2022
+superuser: false
+authors:
+  - baran
 user_groups:
   - PhD Students
 highlight_name: false
