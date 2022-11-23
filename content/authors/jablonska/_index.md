@@ -27,7 +27,7 @@ social:
     link: https://github.com/katarzyna-jablonska
 education:
   courses:
-    - course: M.Sc. in Computer Science, specialization Data Science, Faculty of
+    - course: M.Sc in Computer Science, specialization Data Science, Faculty of
         Computer Science and Management
       institution: Wrocław University of Science and Technology
       year: 2021
