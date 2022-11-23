@@ -6,11 +6,13 @@ organizations:
 superuser: false
 authors:
   - wozniak
-role: null
+role: PhD Student
 bio: null
 interests:
-  - Interest 1
-  - Interest 2
+  - Natural Language Processing
+  - Machine Learning
+  - Continual Learning
+  - Multitask Learning
 social:
   - icon: envelope
     icon_pack: fas
