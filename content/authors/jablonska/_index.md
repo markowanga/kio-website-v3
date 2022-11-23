@@ -15,7 +15,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:katarzynal.jablonska@pwr.edu.pl
+    link: mailto:katarzyna.jablonska@pwr.edu.pl
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/kasiajablonska_
