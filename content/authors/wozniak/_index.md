@@ -19,10 +19,20 @@ social:
     link: mailto:stanislaw.wozniak@pwr.edu.pl
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=PERSON-ID
+    link: https://scholar.google.com/citations?user=q49nN_kAAAAJ
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Stanislaw-Wozniak-3
+    icon_pack: ai
+    icon: researchgate
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/stanislaw-wozniak/
+  - display:
+      header: false
+    icon_pack: fab
+    icon: github
+    link: https://github.com/sates298
 education:
   courses:
     - course: BSc in Computer Science
