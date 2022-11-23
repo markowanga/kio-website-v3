@@ -39,4 +39,4 @@ highlight_name: false
 title: Michał Czuba
 email: michal.czuba@pwr.edu.pl
 ---
-I am a young researcher focused on the issue of information diffusion in complex networks. My experience in AI projects touches also machine vision, cyber-security and facilitation of industrial processes by ML. Apart from scientific aspects, I am concerned in problems like deployment, scaling and monitoring of AI algorithms in business products. My interests evolved from software-related issues of robotics (during studies at Faculty of Mechanical Engineering) into pure aspects of artificial intelligence scoped in network-science.
+I am an early stage researcher focused on the issue of information diffusion in complex networks. My experience in AI projects touches also machine vision, cyber-security and facilitation of industrial processes by ML. Apart from scientific aspects, I am concerned in problems like deployment, scaling and monitoring of AI algorithms in business products. My interests evolved from software-related issues of robotics (during studies at Faculty of Mechanical Engineering) into pure aspects of artificial intelligence scoped in network-science.
