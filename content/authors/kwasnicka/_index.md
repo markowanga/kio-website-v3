@@ -8,7 +8,11 @@ authors:
   - kwasnicka
 title: Halina Kwaśnicka
 role: Full Professor
-bio: Founder and previous head of the Department of Computational Intelligence
+bio: Halina Kwasnicka is a founder and was the head (up to the end of 2020) of
+  the Department of Artificial Intelligence. Currently, she is a full professor
+  at this Department. Her research interest focuses on a broad understanding of
+  Artificial Intelligence -- nature-inspired methods, data mining, and
+  Explainable Artificial Intelligence.
 interests:
   - Evolutionary Algorithms
   - Machine Learning
