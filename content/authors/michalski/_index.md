@@ -1,7 +1,7 @@
 ---
 organizations:
-  - name: Department of Computational Intelligence, Wroclaw University of Science
-      and Technology
+  - name: Department of Artificial Intelligence, Wroclaw University of Science and
+      Technology
     url: ""
 superuser: false
 authors:
@@ -43,7 +43,7 @@ education:
     - course: PhD in Computer Science
       institution: Wroclaw University of Science and Technology
       year: 2014
-    - course: DSc in Information and Communication Technology
+    - course: DSc (Habilitation) in Information and Communication Technology
       institution: Wroclaw University of Science and Technology
       year: 2022
 user_groups:
