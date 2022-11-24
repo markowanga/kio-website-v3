@@ -6,7 +6,7 @@ organizations:
 superuser: false
 authors:
   - tabakow
-title: Martin Tabakow
+title: Martin Tabakov
 role: Associate Professor
 bio: My research interests include Medical Image processing and Analysis,
   Applications of AI techniques in Medicine, Fuzzy Systems, Fuzzy Reasoning.
