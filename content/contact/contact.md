@@ -26,10 +26,6 @@ content:
     latitude: '51.109838'
     longitude: '17.057482'
   directions: Enter Building D2 and take the stairs to Office 201/6 on Floor 2
-#  office_hours:
-#    - 'Monday 10:00 to 13:00'
-#    - 'Wednesday 09:00 to 10:00'
-#  appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
