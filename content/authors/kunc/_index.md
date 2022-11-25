@@ -1,70 +1,41 @@
 ---
-# Display name
-title: "Dominika Kunc"
-
-# Username (this should match the folder name and the name on publications)
-authors:
-- "kunc"
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position (e.g., Professor of Artificial Intelligence)
-role:
-
-# Organizations/Affiliations
-organizations:
-- name: 
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: 
-
-# List each interest with a dash
+title: Dominika Kunc
+role: PhD student
+bio: Data Scientist
 interests:
-- Interest 1
-- Interest 2
-
+  - DataScience;Psychophysiology;AffectiveComputing
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact"
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/DominikaKunc
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=DzW-dt4AAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/dkunc
+organizations:
+  - name: Department of Artificial Intelligence, Wrocław University of Science and
+      Technology
+    url: ""
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: M. Sc. in Computer Science, specialization Data Science, Faculty of
+        Computer Science and Management
+      institution: Wrocław University of Science and Technology
+      year: 2021
+    - course: Eng. in Computer Science, Faculty of Fundamental Problems of Technology
+      institution: Wrocław University of Science and Technology
+      year: 2020
+superuser: false
+authors:
+  - kunc
 user_groups:
-- PhD Students
+  - PhD Students
+highlight_name: false
+email: ""
 ---
+Dominika received the Eng. degree in Computer Science in 2020 and the M.Sc. degree in Computer Science, specialization in Data Science in 2021, both from Wrocław University of Science and Technology (WUST), Poland. She was one of the Top 10 Computer Science and Management faculty graduates in 2021. She is a Ph.D. student in computer science at WUST currently working with the [Emognition](https://emognition.pwr.edu.pl/home) research team. Her research interests include affective computing, physiological signals, and machine learning.

@@ -1,70 +1,40 @@
 ---
-# Display name
-title: "Piotr Kawa"
-
-# Username (this should match the folder name and the name on publications)
-authors:
-- "kawa"
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position (e.g., Professor of Artificial Intelligence)
-role:
-
-# Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: 
-
-# List each interest with a dash
+  - name: Department of Computational Intelligence, Wroclaw University of Science
+      and Technology
+    url: ""
+superuser: false
+authors:
+  - kawa
+role: PhD Student
+bio: null
 interests:
-- Interest 1
-- Interest 2
-
+  - Computer Vision
+  - Speech Processing
+  - DeepFake Detection
+  - Text To Speech
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:piotr.kawa@pwr.edu.pl
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=MZ_ToSkAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/piotrkawa/
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: MSc in Computer Science (Computer Security)
+      institution: Wroclaw University of Science and Technology
+      year: 2020
+    - course: BSc in Computer Science
+      institution: Wroclaw University of Science and Technology
+      year: 2019
 user_groups:
-- PhD Students
+  - PhD Students
+highlight_name: false
+title: Piotr Kawa
+email: ""
 ---
+Piotr Kawa holds BSc and MSc in Computer Science and is currently PhD student at Wroclaw University of Science and Technology. In his work he focuses on applications of machine learning in the selected aspects of information security. His research and professional interests focus on image and speech processing including topics like DeepFake detection and Text-To-Speech / Voice Conversion systems. His experience in commercial projects covers identity verification, information security (media watermarking), as well as signal processing (audio and video).
