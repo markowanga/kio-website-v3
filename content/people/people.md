@@ -18,7 +18,6 @@ content:
   user_groups:
     - Faculty
     - PhD Students
-    - Project's staff
 design:
   show_interests: false
   show_role: true

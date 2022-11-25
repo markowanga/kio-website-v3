@@ -31,4 +31,4 @@ user_groups:
 highlight_name: false
 email: joanna.baran@pwr.edu.pl
 ---
-J﻿oanna is a Machine Learning researcher focused on Natural Language Processing. She has been working for two years in the CLARIN-Biz project at Wrocław University of Science and Technology on various tasks including word sense disambiguation and entity linking. She received her MSc degree in Artificial Intelligence from the same university in 2022. Currently, Joanna is pursuing her PhD on the application of neuro-sybolic methods to the NLP field.
+Joanna is a Machine Learning researcher focused on Natural Language Processing. She has been working for two years in the CLARIN-Biz project at Wrocław University of Science and Technology on various tasks including word sense disambiguation and entity linking. She received her MSc degree in Artificial Intelligence from the same university in 2022. Currently, Joanna is pursuing her PhD on the application of neuro-sybolic methods to the NLP field.
