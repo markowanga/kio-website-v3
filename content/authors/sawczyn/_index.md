@@ -15,17 +15,17 @@ interests:
   - Unsupervised Learning
   - Self-Supervised learning
 social:
+  - display:
+      header: false
+    link: mailto:albert.sawczyn@pwr.edu.pl
+    icon_pack: fas
+    icon: envelope
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=b_lsTOkAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/asawczyn
-  - display:
-      header: false
-    link: mailto:albert.sawczyn@pwr.edu.pl
-    icon_pack: fas
-    icon: envelope
 education:
   courses:
     - course: MSc in Data Science
