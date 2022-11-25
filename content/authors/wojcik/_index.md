@@ -1,10 +1,4 @@
 ---
-organizations:
-  - name: Wroclaw Univerisity of Science and Technology
-  - name: Alphamoon
-superuser: false
-authors:
-  - wojcik
 role: PhD Student
 avatar_filename: ""
 bio: PhD Student in Continual Learning
@@ -25,14 +19,14 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/USERNAME
+organizations:
+  - name: Wroclaw Univerisity of Science and Technology
+  - name: Alphamoon
 education:
-  courses:
-    - course: Title course 1
-      institution: Name of Institution
-      year: 2012
-    - course: Title course 1
-      institution: Name of Institution
-      year: 2012
+  courses: []
+superuser: false
+authors:
+  - wojcik
 user_groups:
   - PhD Students
 highlight_name: false
