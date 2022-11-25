@@ -12,6 +12,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:Urszula.Markowska-Kaczmar@pwr.edu.pl
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=A3zYitkAAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-7606-3057
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/urszula-markowska-kaczmar-7730b93/
 organizations:
   - name: Department of Computational Intelligence, Wroclaw University of Science
       and Technology
