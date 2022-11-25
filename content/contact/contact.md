@@ -13,7 +13,7 @@ title: Contact
 subtitle:
 
 content:
-  email: kio@pwr.edu.pl
+  email: marcin.watroba@deviniti.com
   phone: +48 71 320 2454
   address:
     street: Wybrzeże Wyspiańskiego 27
@@ -42,11 +42,9 @@ content:
   # Email form provider
   form:
     provider: netlify
-    formspree:
-      id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
 design:
   columns: '1'
