@@ -13,7 +13,7 @@ title: Contact
 subtitle:
 
 content:
-  email: marcin.watroba@deviniti.com
+  email: ai@pwr.edu.pl
   phone: +48 71 320 2454
   address:
     street: Wybrzeże Wyspiańskiego 27
@@ -36,11 +36,11 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+  # form:
+  #   provider: netlify
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: true
 
 design:
   columns: '1'
