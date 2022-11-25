@@ -1,7 +1,6 @@
 ---
-# Files in this folder represent a Widget Page (homepage)
-type: widget_page
+title: Main
 
-# Homepage is headless, other widget pages are not.
-headless: true
+# Files in this folder represent a Widget Page
+type: widget_page
 ---
