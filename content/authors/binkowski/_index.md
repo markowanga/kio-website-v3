@@ -24,12 +24,12 @@ social:
     link: https://github.com/binkjakub
 education:
   courses:
-    - course: MsC in Computer Science
+    - course: MSc in Computer Science
       institution: Wroclaw University of Science and Technology
       year: 2021
     - course: BSc in Computer Science
       institution: Wroclaw University of Science and Technology
-      year: 1991
+      year: 2020
 user_groups:
   - PhD Students
 highlight_name: false
