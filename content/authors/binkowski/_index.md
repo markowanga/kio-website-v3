@@ -13,6 +13,11 @@ interests:
   - Geometric Deep Learning
   - NLP
 social:
+  - display:
+      header: false
+    link: mailto:jakub.binkowski@pwr.edu.pl
+    icon_pack: fas
+    icon: envelope
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/JakubBinkowski1
