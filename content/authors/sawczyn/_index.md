@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Department of Computational Intelligence, Wrocław University of Science
+  - name: Department of Artificial Intelligence, Wrocław University of Science
       and Technology
     url: ""
 superuser: false

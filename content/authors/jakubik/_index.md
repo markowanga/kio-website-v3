@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Jan Jakubik
-weight: 200
+weight: 10000
 # Username (this should match the folder name)
 authors:
 - jakubik
@@ -14,11 +14,11 @@ role: Faculty
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Computational Intelligence, Wroclaw University of Science and Technology
+- name: Department of Artificial Intelligence, Wroclaw University of Science and Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student in Department of Computational Intelligence, Wroclaw University of Science and Technology
+bio: PhD student in Department of Artificial Intelligence, Wroclaw University of Science and Technology
 
 interests:
 - Deep learnning

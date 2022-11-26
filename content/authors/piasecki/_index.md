@@ -14,7 +14,7 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Computational Intelligence, Wroclaw University of Science and Technology
+- name: Department of Artificial Intelligence, Wroclaw University of Science and Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

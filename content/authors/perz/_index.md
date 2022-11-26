@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Department of Computational Intelligence, Wroclaw University of Science
+  - name: Department of Artificial Intelligence, Wroclaw University of Science
       and Technology
     url: ""
 superuser: false
@@ -45,4 +45,4 @@ user_groups:
 weight: 166
 email: ""
 ---
-Bartosz is a Ph.D. student at the Department of Computational Intelligence and a member of the [Emognition](https://emotions.pwr.edu.pl) research group. He does his research in affective computing;  specifically he works on personalized specifically emotion recognition from physiological signals. Bartosz is also the head of the DaniE student research club that focuses on data analysis and machine learning.
+Bartosz is a Ph.D. student at the Department of Artificial Intelligence and a member of the [Emognition](https://emotions.pwr.edu.pl) research group. He does his research in affective computing;  specifically he works on personalized specifically emotion recognition from physiological signals. Bartosz is also the head of the DaniE student research club that focuses on data analysis and machine learning.

@@ -11,7 +11,7 @@ social:
     icon_pack: fas
     link: mailto:kamil.tagowski@pwr.edu.pl
 organizations:
-  - name: Department of Computational Intelligence, Wroclaw University of Science
+  - name: Department of Artificial Intelligence, Wroclaw University of Science
       and Technology
     url: http://kio.pwr.edu.pl/?page_id=2
 education:

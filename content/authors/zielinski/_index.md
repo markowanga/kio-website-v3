@@ -14,7 +14,7 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Computational Intelligence, Wroclaw University of Science and Technology
+- name: Department of Artificial Intelligence, Wroclaw University of Science and Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -69,4 +69,4 @@ email: ""
 user_groups:
 - PhD Students
 ---
-Piotr is a PhD Student at the Department of Computational Intelligence. His great passion for computer vision started during his Bachelor studies when he was working on autonomous vehicles navigation in "Robocik" Science Club. In his Master thesis, he explored deep reinforcement learning methods' application for autonomous underwater vehicle navigation. His research work was awarded the third prize in national Data Science Masters competition, organized by the Faculty of Mathematics and Information Science at Warsaw University of Technology. Currently, his research interests turned towards representation learning in computer vision, especially multi-object representation learning using deep convolutional neural networks.
+Piotr is a PhD Student at the Department of Artificial Intelligence. His great passion for computer vision started during his Bachelor studies when he was working on autonomous vehicles navigation in "Robocik" Science Club. In his Master thesis, he explored deep reinforcement learning methods' application for autonomous underwater vehicle navigation. His research work was awarded the third prize in national Data Science Masters competition, organized by the Faculty of Mathematics and Information Science at Warsaw University of Technology. Currently, his research interests turned towards representation learning in computer vision, especially multi-object representation learning using deep convolutional neural networks.

@@ -14,11 +14,11 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Computational Intelligence, Wroclaw University of Science and Technology
+- name: Department of Artificial Intelligence, Wroclaw University of Science and Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Piotr Szymański is an assistant Professor at the Department of Computational Intelligence at the 
+bio: Piotr Szymański is an assistant Professor at the Department of Artificial Intelligence at the 
      Wrocław University of Science and Technology and a Machine Learning Engineer at Avaya. Professionally involved 
      in data analysis, statistical reasoning, geospatial data science, natural language processing, machine learning and 
      artificial intelligence techniques.
@@ -72,7 +72,7 @@ email: "piotr.szymanski@pwr.edu.pl"
 user_groups:
 - Faculty
 ---
-Piotr Szymański is an assistant Professor at the Department of Computational Intelligence at the 
+Piotr Szymański is an assistant Professor at the Department of Artificial Intelligence at the 
 Wrocław University of Science and Technology and a Machine Learning Engineer at Avaya. Professionally involved 
 in data analysis, statistical reasoning, geospatial data science, natural language processing, machine learning and 
 artificial intelligence techniques.
