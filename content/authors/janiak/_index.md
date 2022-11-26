@@ -5,7 +5,13 @@ bio: Machine learning engineer, Bayesianist
 interests:
   - probability
   - neuroscience
-social: []
+social:
+- icon: github
+  icon_pack: fab
+  link: https://github.com/djaniak
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=ICTlqh0AAAAJ&hl=en
 organizations:
   - name: CLARIN
 education:
