@@ -4,7 +4,13 @@ role: Associate Professor
 bio: My research interests include Medical Image processing and Analysis,
   Applications of AI techniques in Medicine, Fuzzy Systems, Fuzzy Reasoning.
 interests: null
-social: null
+social: 
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=TuDZMv8AAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/martin-tabakov-45985864/
 organizations:
   - name: Department of Artificial Intelligence, Wroclaw University of Science and
       Technology

@@ -29,21 +29,17 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.pl/citations?user=cxLgNccAAAAJ
-  - display:
-      header: false
-    link: https://www.webofscience.com/wos/author/record/541317
-    icon_pack: ai
-    label: WoS
-    icon: Web of Science
-  - display:
-      header: false
-    link: https://www.scopus.com/authid/detail.uri?authorId=35615668400
-    icon_pack: ai
-    icon: Scoups
-  - display:
-      header: false
-    link: https://orcid.org/0000-0001-5868-356X
-    icon: ORCID
+#  - link: https://www.webofscience.com/wos/author/record/541317
+#    icon_pack: ai
+#    label: WoS
+#    icon: Web of Science
+#  - display:
+#      header: false
+#    link: https://www.scopus.com/authid/detail.uri?authorId=35615668400
+#    icon_pack: ai
+#    icon: Scoups
+  - link: https://orcid.org/0000-0001-5868-356X
+    icon: orcid
     icon_pack: ai
   - display:
       header: false
