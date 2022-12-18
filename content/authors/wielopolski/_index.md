@@ -16,11 +16,11 @@ social:
 organizations: []
 education:
   courses:
-    - course: Applied Mathematics
+    - course: M.Sc. in Applied Mathematics
       institution: Wrocław University of Science and Technology
       year: 2021
     - institution: Wrocław University of Science and Technology
-      course: Applied Mathematics
+      course: B.Eng. in Applied Mathematics
       year: 2020
 superuser: false
 authors:
