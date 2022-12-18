@@ -3,7 +3,9 @@ title: Patryk Wielopolski
 role: PhD Student
 bio: null
 interests:
-  - Normalizing Flows;Uncertainty Estimation;Probabilistic Modeling
+  - Normalizing Flows
+  - Uncertainty Estimation
+  - Probabilistic Modeling
 social:
   - icon: google-scholar
     icon_pack: ai
