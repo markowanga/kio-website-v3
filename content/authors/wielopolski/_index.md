@@ -15,7 +15,13 @@ social:
     link: https://github.com/pfilo8
 organizations: []
 education:
-  courses: []
+  courses:
+    - course: Applied Mathematics
+      institution: Wrocław University of Science and Technology
+      year: 2021
+    - institution: Wrocław University of Science and Technology
+      course: Applied Mathematics
+      year: 2020
 superuser: false
 authors:
   - wielopolski
