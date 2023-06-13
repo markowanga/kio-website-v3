@@ -10,8 +10,10 @@ title: Katarzyna Jabłońska
 role: Ph.D. Student
 bio: Data Scientist, Machine Learning Engineer, Ph.D. Student
 interests:
-  - Climbing
-  - roller skating
+  - computer vision
+  - satellite images
+  - remote sensing
+  - deep learning
 social:
   - icon: envelope
     icon_pack: fas
