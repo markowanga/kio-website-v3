@@ -16,7 +16,7 @@ interests:
 social:
   - display:
       header: false
-    link: syga.ai.pwr.edu.pl
+    link: https://syga.ai.pwr.edu.pl
     icon_pack: fas
     icon: home
   - display:
